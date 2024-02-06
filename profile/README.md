@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to the HWO-GOMAP Working Groups GitHub
 
 <!--
 
