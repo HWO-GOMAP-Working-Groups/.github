@@ -2,7 +2,7 @@
 
 The Habitable Worlds Observatory (HWO) is NASA's first astrophysics flagship mission concept to enter the Great Observatory Maturation Program (GOMAP). Two groups will guide the GOMAP activities for HWO: the Science, Technology, Architecture Review Team (START) and the Technical Assessment Group (TAG). Community Working Groups (WG) and Sub-Groups (SG) have been organized along the START and TAG to conduct GOMAP activities for HWO over the coming year. For more information, see the [NASA GOMAP-HWO website](https://science.nasa.gov/astrophysics/programs/habitable-worlds-observatory/). 
 
-This GitHub Organization serves as the short-term public repository for HWO-GOMAP WG/SG activities. GOMAP-HWO WG/SG meetings are posted to the [HWO-GOMAP Public Calendar](https://calendar.google.com/calendar/u/0?cid=Y19jZTRjNzA4ZmFkNjYyYWJhMGM4ZWVmODRjZTI2MDZlNDRkNGY0NmE4MzczYWUzMTczOWZjMjhkZTNjZTljMWIxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) along with connection information for open meegings. WG/SG meeting agendas and notes are posted to the wikis associated with the public GitHub repositories for each WG/SG.
+This GitHub Organization serves as the short-term public repository for HWO-GOMAP WG/SG activities. GOMAP-HWO WG/SG meetings are posted to the [HWO-GOMAP Public Calendar](https://calendar.google.com/calendar/u/0?cid=Y19jZTRjNzA4ZmFkNjYyYWJhMGM4ZWVmODRjZTI2MDZlNDRkNGY0NmE4MzczYWUzMTczOWZjMjhkZTNjZTljMWIxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) along with connection information for open meetings. WG/SG meeting agendas and notes are posted to the wikis associated with the public GitHub repositories for each WG/SG.
 
 ## Working Groups 
 
