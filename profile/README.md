@@ -13,6 +13,7 @@ START  | Evolution of the Elements | [Repository](https://github.com/HWO-GOMAP-W
 START  | Solar System in Context | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Solar-System) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Solar-System/wiki)
 START  | Living Worlds | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Living-Worlds) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Living-Worlds/wiki)
 TAG    | Science-Engineering Interface | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Sci-Eng-Interface) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Sci-Eng-Interface/wiki)
+TAG    | Integrated Modeling | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Integrated-Modeling) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Integrated-Modeling/wiki)
 TAG    | Systems | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Systems) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Systems/wiki)
 TAG    | Technology | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Technology) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Technology/wiki)
 TAG    | Servicing | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Servicing) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Servicing/wiki)
