@@ -1,5 +1,8 @@
 ## Welcome to the HWO-GOMAP Working Groups GitHub
 
+Working Group (WG) and Sub-Group (SG) meetings will be posted to the [HWO-GOMAP Public Calendar](https://calendar.google.com/calendar/u/0?cid=Y19jZTRjNzA4ZmFkNjYyYWJhMGM4ZWVmODRjZTI2MDZlNDRkNGY0NmE4MzczYWUzMTczOWZjMjhkZTNjZTljMWIxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+
+
 <!--
 
 **Here are some ideas to get you started:**
