@@ -4,7 +4,7 @@ The Habitable Worlds Observatory (HWO) is NASA's first astrophysics flagship mis
 
 This GitHub Organization serves as the short-term public repository for HWO-GOMAP WG/SG activities. GOMAP-HWO WG/SG meetings are posted to the [HWO-GOMAP Public Calendar](https://calendar.google.com/calendar/u/0?cid=Y19jZTRjNzA4ZmFkNjYyYWJhMGM4ZWVmODRjZTI2MDZlNDRkNGY0NmE4MzczYWUzMTczOWZjMjhkZTNjZTljMWIxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) along with connection information for open meegings. WG/SG meeting agendas and notes are posted to the wikis associated with the public GitHub repositories for each WG/SG.
 
-## Working Groups & Sub-Groups
+## Working Groups 
 
 Type | Name | Links
 | :--- | :--- | :---:
