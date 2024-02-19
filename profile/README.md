@@ -26,7 +26,7 @@ Community  | Communications | [Repository](https://github.com/HWO-GOMAP-Working-
 Community  | GOMAP Synergies for Future Missions | [Repository](https://github.com/HWO-GOMAP-Working-Groups/GOMAP-Synergies) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/GOMAP-Synergies/wiki)
 Community  | Ground-based Astronomy in 2030s/2040s | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Ground-Based-Astro) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Ground-Based-Astro/wiki)
 Community  | Spaced-based Astronomy in 2030s/2040s | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Space-Based-Astro) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Space-Based-Astro/wiki)
-
+GIG  | GIG | [Repository]([https://github.com/HWO-GOMAP-Working-Groups/Space-Based-Astro](https://github.com/HWO-GOMAP-Working-Groups/GIG)) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/GIG/wiki)
 
 
 
