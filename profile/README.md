@@ -19,6 +19,7 @@ TAG    | Servicing | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Se
 Joint    | Science-Engineering Interface | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Sci-Eng-Interface) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Sci-Eng-Interface/wiki)
 Joint  | Comparison of Past Studies | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Past-Studies) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Past-Studies/wiki)
 Joint  | Science Case Simulation | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Science-Case-Simulation) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Science-Case-Simulation/wiki)
+Joint  | Science Case Simulation - ESY | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Science-Case-Simulation-ESY) 
 Joint  | Science Data Simulation | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Science-Data-Simulation) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Science-Data-Simulation/wiki)
 Joint  | AI & ML | [Repository](https://github.com/HWO-GOMAP-Working-Groups/AI-ML) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/AI-ML/wiki)
 Community  | DEIA & Mentorship | [Repository](https://github.com/HWO-GOMAP-Working-Groups/DEIA-Mentorship) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/DEIA-Mentorship/wiki)
