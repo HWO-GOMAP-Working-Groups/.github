@@ -22,7 +22,7 @@ Joint  | Science Case Simulation | [Repository](https://github.com/HWO-GOMAP-Wor
 Joint  | Science Case Simulation - ESY | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Science-Case-Simulation-ESY) 
 Joint  | Science Data Simulation | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Science-Data-Simulation) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Science-Data-Simulation/wiki)
 Joint  | AI & ML | [Repository](https://github.com/HWO-GOMAP-Working-Groups/AI-ML) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/AI-ML/wiki)
-Community  | DEIA & Mentorship | [Repository](https://github.com/HWO-GOMAP-Working-Groups/DEIA-Mentorship) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/DEIA-Mentorship/wiki)
+Community  | Inclusion & Mentorship | [Repository](https://github.com/HWO-GOMAP-Working-Groups/DEIA-Mentorship) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/DEIA-Mentorship/wiki)
 Community  | Communications | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Comms) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Comms/wiki)
 Community  | GOMAP Synergies for Future Missions | [Repository](https://github.com/HWO-GOMAP-Working-Groups/GOMAP-Synergies) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/GOMAP-Synergies/wiki)
 Community  | Ground-based Astronomy in 2030s/2040s | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Ground-Based-Astro) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Ground-Based-Astro/wiki)
