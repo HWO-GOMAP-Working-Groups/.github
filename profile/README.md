@@ -8,14 +8,14 @@ This GitHub Organization serves as the short-term public repository for HWO-GOMA
 
 Type | Name | Links
 | :--- | :--- | :---:
-START  | Galaxy Growth | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Galaxy-Growth) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Galaxy-Growth/wiki)
-START  | Evolution of the Elements | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Evolution-Elements) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Evolution-Elements/wiki)
-START  | Solar System in Context | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Solar-System) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Solar-System/wiki)
-START  | Living Worlds | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Living-Worlds) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Living-Worlds/wiki)
-TAG    | Integrated Modeling | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Integrated-Modeling) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Integrated-Modeling/wiki)
-TAG    | Systems | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Systems) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Systems/wiki)
-TAG    | Technology | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Technology) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Technology/wiki)
-TAG    | Servicing | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Servicing) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Servicing/wiki)
+Science  | Galaxy Growth | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Galaxy-Growth) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Galaxy-Growth/wiki)
+Science  | Evolution of the Elements | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Evolution-Elements) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Evolution-Elements/wiki)
+Science  | Solar System in Context | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Solar-System) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Solar-System/wiki)
+Science  | Living Worlds | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Living-Worlds) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Living-Worlds/wiki)
+Technology  | Integrated Modeling | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Integrated-Modeling) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Integrated-Modeling/wiki)
+Technology  | Systems | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Systems) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Systems/wiki)
+Technology  | Technology | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Technology) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Technology/wiki)
+Technology  | Servicing | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Servicing) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Servicing/wiki)
 Joint    | Science-Engineering Interface | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Sci-Eng-Interface) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Sci-Eng-Interface/wiki)
 Joint  | Comparison of Past Studies | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Past-Studies) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Past-Studies/wiki)
 Joint  | Science Case Simulation | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Science-Case-Simulation) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Science-Case-Simulation/wiki)
@@ -27,7 +27,7 @@ Community  | Communications | [Repository](https://github.com/HWO-GOMAP-Working-
 Community  | GOMAP Synergies for Future Missions | [Repository](https://github.com/HWO-GOMAP-Working-Groups/GOMAP-Synergies) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/GOMAP-Synergies/wiki)
 Community  | Ground-based Astronomy in 2030s/2040s | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Ground-Based-Astro) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Ground-Based-Astro/wiki)
 Community  | Spaced-based Astronomy in 2030s/2040s | [Repository](https://github.com/HWO-GOMAP-Working-Groups/Space-Based-Astro) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/Space-Based-Astro/wiki)
-Leadership  | HWO & START/TAG Leadership Team | [Repository](https://github.com/HWO-GOMAP-Working-Groups/GIG) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/GIG/wiki)
+Leadership  | HWO Leadership Team | [Repository](https://github.com/HWO-GOMAP-Working-Groups/GIG) [Wiki](https://github.com/HWO-GOMAP-Working-Groups/GIG/wiki)
 
 
 
